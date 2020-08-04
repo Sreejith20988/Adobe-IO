@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Adobe-IO" />
         <module name="PDFConvert with Adobe IO" />
         <module name="Adobe IO" />
       </profile>

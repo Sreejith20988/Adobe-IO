@@ -27,7 +27,7 @@ public class ExportPDFToDOCX {
     public void exportToPDF(String file) {
 
         try {
-            System.out.println("Export CLass");
+      
             // Initial setup, create credentials instance.
             Credentials credentials = Credentials.serviceAccountCredentialsBuilder()
                     .fromFile("pdftools-api-credentials.json")
